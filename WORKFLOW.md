@@ -1,6 +1,6 @@
 # Workflow
 
-This repository (`boazgolan-wq/bulgol`) is the source of truth for BulGol.
+This repository (`golan-projects/bulgol`) is the source of truth for BulGol.
 
 ## How to work
 1. Edit in this working copy: `/workspace/football-app` on the box.
